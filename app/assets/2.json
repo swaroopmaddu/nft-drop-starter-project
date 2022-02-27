@@ -1,0 +1,19 @@
+{
+  "name": "Anime 02",
+  "symbol": "A02",
+  "image": "2.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "2.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "DVcjkvnCuV59RpxxrSbnxHK9rAgfaVriXK3NX51eiv3i",
+        "share": 100
+      }
+    ]
+  }
+}
